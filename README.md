@@ -1,0 +1,2 @@
+# gypsy-resonance-core
+Architecture 
